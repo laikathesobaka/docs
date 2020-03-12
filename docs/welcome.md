@@ -6,7 +6,7 @@ sidebar_label: Welcome
 
 ---
 
-Futureswap is a protocol for futures trading on ethereum. 
+Futureswap is a protocol for futures trading on Ethereum. 
 
 Our main goal is to create an ecosystem focused on creating a decentralized trading platform that is community organized and lead. We encourage developers to build on top of Futureswap to achieve their DeFi goals.
 
